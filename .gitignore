@@ -9,3 +9,5 @@ test/
 
 # NetBeans private folder
 /nbproject/private/
+
+.gitignore
