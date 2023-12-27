@@ -1,0 +1,11 @@
+# Ignore specific file
+src/Models/Conexion.java
+
+# Build folder
+build/
+
+# Test folder
+test/
+
+# NetBeans private folder
+/nbproject/private/
